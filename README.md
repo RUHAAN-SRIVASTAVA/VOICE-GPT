@@ -1,2 +1,4 @@
 # VOICE-GPT
 This project is a Python script that uses IBM TTS API and OpenAI API to create a voice assistant that is capable of answering questions. The voice assistant is designed to only respond to questions and ignore any other inputs.
+The voice assistant is designed to be user-friendly and easy to set up. Users can simply run the script on their local machine and start asking questions. The script can be customized with different prompts and question types, and the IBM TTS API can be adjusted to generate speech in different languages or with different voices.
+This project is ideal for anyone looking to experiment with voice assistants and natural language processing. It demonstrates how powerful AI tools like OpenAI and IBM TTS API can be used to create conversational interfaces that are capable of understanding and responding to human language.
